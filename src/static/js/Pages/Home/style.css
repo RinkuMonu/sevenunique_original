@@ -1,0 +1,296 @@
+.main-bg {
+    background-image: linear-gradient(to bottom right, var(--primary), var(--secondary));
+    background-position: center;
+    background-size: cover;
+    height: 95vh;
+    /* top: -10%; */
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: center;
+    border-bottom-right-radius: 200px;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home_heading {
+    font-size: 55px;
+    color: white;
+    font-weight: 800;
+}
+
+.home-para {
+    color: white;
+    font-size: 16px;
+}
+
+.banner-main-image img {
+    width: 85%;
+    z-index: 0;
+}
+
+.button {
+    background-color: var(--secondary);
+    border-color: var(--secondary);
+}
+
+.button:hover {
+    background-color: var(--secondary);
+    border-color: var(--secondary);
+}
+
+/* features */
+
+.service-14 {
+    color: #8d97ad;
+    font-weight: 300;
+}
+
+.service-14 h1,
+.service-14 h2,
+.service-14 h3,
+.service-14 h4,
+.service-14 h5,
+.service-14 h6 {
+    color: #3e4555;
+}
+
+.service-14 h3 {
+    line-height: 36px;
+    font-size: 30px;
+}
+
+.service-14 h6 {
+    line-height: 22px;
+    font-size: 18px;
+}
+
+.badge {
+    line-height: 14px;
+}
+
+.badge-info {
+    background: var(--secondary);
+}
+
+.service-14 .font-weight-medium {
+    font-weight: 500;
+}
+
+.service-14 a {
+    text-decoration: none;
+}
+
+.service-14 .linking {
+    color: var(--primary);
+}
+
+.service-14 .linking:hover {
+    color: var(--primary);
+}
+
+.service-14 .btn-info-gradiant {
+    background: var(--primary);
+    background: -webkit-linear-gradient( legacy-direction(to right), var(--primary) 0%, var(--secondary) 100%);
+    background: -webkit-gradient( linear, left top, right top, from(var(--primary)), to(var(--secondary)));
+    background: -webkit-linear-gradient( left, var(--primary) 0%, var(--secondary) 100%);
+    background: -o-linear-gradient( left, var(--primary) 0%, var(--secondary) 100%);
+    background: linear-gradient( to right, var(--primary) 0%, var(--secondary) 100%);
+}
+
+.service-14 .btn-info-gradiant:hover {
+    background: #ae3d8e;
+    background: -webkit-linear-gradient( legacy-direction(to right), #ae3d8e 0%, var(--secondary) 100%);
+    background: -webkit-gradient( linear, left top, right top, from(#ae3d8e), to(var(--secondary)));
+    background: -webkit-linear-gradient(left, #ae3d8e 0%, var(--secondary) 100%);
+    background: -o-linear-gradient(left, #ae3d8e 0%, var(--secondary) 100%);
+    background: linear-gradient(to right, #ae3d8e 0%, var(--secondary) 100%);
+}
+
+.service-14 .btn-md {
+    padding: 15px 45px;
+    font-size: 16px;
+}
+
+/* how to do what to do */
+
+.howToDo-whatTodo {
+    background-image: linear-gradient(to bottom right, var(--primary), var(--secondary));
+    background-position: center;
+    background-size: cover;
+}
+
+.item-how-what-todo {
+    position: relative;
+}
+
+.item-how-what-todo h5 {
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+/* services */
+
+.section-services .header-section {
+    margin-bottom: 34px;
+}
+
+.section-services .header-section .title {
+    position: relative;
+    padding-bottom: 14px;
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.section-services .header-section .title:before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 50px;
+    height: 3px;
+    background-color: var(--secondary);
+    border-radius: 3px;
+}
+
+.section-services .header-section .title:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(30px);
+    width: 10px;
+    height: 3px;
+    background-color: var(--primary);
+    border-radius: 3px;
+}
+
+.section-services .header-section .description {
+    font-size: 14px;
+    color: #282828;
+}
+
+.section-services .single-service {
+    position: relative;
+    margin-top: 30px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 40px 30px;
+    overflow: hidden;
+}
+
+.section-services .single-service .content {
+    position: relative;
+    z-index: 20;
+}
+
+.section-services .single-service .circle-before {
+    position: absolute;
+    top: 0;
+    right: 0px;
+    transform: translate(40%, -40%);
+    width: 150px;
+    height: 150px;
+    background-image: linear-gradient(to bottom right, var(--primary), var(--secondary));
+    background-position: center;
+    background-size: cover;
+    border: 6px solid #504f93;
+    border-radius: 50%;
+    opacity: 0.5;
+    z-index: 10;
+    transition: all 0.6s;
+}
+
+.section-services .single-service:hover .circle-before {
+    width: 100%;
+    height: 100%;
+    transform: none;
+    border: 0;
+    border-radius: 0;
+    opacity: 1;
+}
+
+.section-services .single-service .icon {
+    display: inline-block;
+    margin-bottom: 26px;
+    width: 70px;
+    height: 70px;
+    background-color: var(--primary);
+    border-radius: 5px;
+    line-height: 70px;
+    text-align: center;
+    color: #fff;
+    font-size: 30px;
+    transition: all 0.3s;
+}
+
+.section-services .single-service:hover .icon {
+    background-color: #fff;
+    color: var(--primary);
+}
+
+.section-services .single-service .title {
+    margin-bottom: 18px;
+    font-weight: 700;
+    font-size: 23px;
+    transition: color 0.3s;
+}
+
+.section-services .single-service:hover .title {
+    color: #fff;
+}
+
+.section-services .single-service .description {
+    margin-bottom: 20px;
+    font-size: 14px;
+    transition: color 0.3s;
+}
+
+.section-services .single-service:hover .description {
+    color: #fff;
+}
+
+.section-services .single-service a {
+    position: relative;
+    font-size: 18px;
+    color: #202020;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s;
+}
+
+.section-services .single-service:hover a {
+    color: #fff;
+}
+
+.section-services .single-service a:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-image: linear-gradient(to bottom right, var(--primary), var(--secondary));
+    background-position: center;
+    background-size: cover;
+    transition: background-color 0.3s;
+}
+
+.section-services .single-service:hover a:after {
+    background-color: #fff;
+}
+
+@media only screen and (max-width: 800px) {
+    .main-bg {
+        height: auto;
+        padding: 30% 2%;
+    }
+    .home_heading {
+        font-size: 35px;
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d3b87d4.css",
+    "main.js": "/static/js/main.57a10b27.js",
+    "static/media/feature2.png": "/static/media/feature2.107e24cd5fdf79a16349.png",
+    "static/media/team.jpg": "/static/media/team.bad6a185eff149b10b81.bad6a185eff149b10b81.jpg",
+    "static/media/feature1.png": "/static/media/feature1.a1fb39bd74f8caa76101.a1fb39bd74f8caa76101.png",
+    "static/media/indexmain.svg": "/static/media/indexmain.f512a1985a412f8509272ff81a824b1f.svg",
+    "static/media/logo_old.png": "/static/media/logo_old.8cb9e82a953844d6e9fc.png",
+    "static/media/mainImg.svg": "/static/media/mainImg.c8148481b0d144dc249c2474bfa48995.55bcacc9a564946feab11e5b2c4b1e12.svg",
+    "static/media/Term&Policy.svg": "/static/media/Term&Policy.7ef991b6a6fbec57d9a2fdc543875323.d63f85608a93e4981f6f79c980bd8bea.svg",
+    "static/media/WhoWeAre.svg": "/static/media/WhoWeAre.6185de6ab4f710bd84c60c18c5c0a50c.svg",
+    "static/media/YesBank.svg.png": "/static/media/YesBank.svg.4994fa5ce212d7fd1fda.4994fa5ce212d7fd1fda.png",
+    "static/media/PrivacyPolicy.svg": "/static/media/PrivacyPolicy.773a2229e1833d54b1889a6dc67fa9ce.bd10b855149c21f9c762614354bb79d7.svg",
+    "static/media/servicesmain.svg": "/static/media/servicesmain.95ce0df9563731a1910.30f602c0455fc3e0f7093236f8e74b33.svg",
+    "static/media/team_main.svg": "/static/media/team_main.08b9d34380e5a4094d7b48c0f7f1d027.d7774e99325346af7eb88945a33279ba.svg",
+    "static/media/AxisBank.png": "/static/media/AxisBank.2c25c33c58b56bc471b9.2c25c33c58b56bc471b9.png",
+    "static/media/RefundPolicy.svg": "/static/media/RefundPolicy.1171c3947160ac48d9a102bde0027f89.5ce49b01f35b79e9422e7009fc16b10f.svg",
+    "static/media/contactmain.svg": "/static/media/contactmain.b5432eebe1165c84ace34c0fd7da2284.7db2463e71ae9499185ec7852e0aed70.svg",
+    "static/media/vision.svg": "/static/media/vision.c206394d9a3274e5f70bafebfe323a56.0a8d23a647a21fc88bec90d73ff31c3e.svg",
+    "static/media/mission.svg": "/static/media/mission.a48482f1ae4de34d840ce5bd20559daf.3aadd1840f06eaa85d7599faf47ef869.svg",
+    "static/media/value.svg": "/static/media/value.d27e5616348a4850eb9d74ccc74561f9.45188d4c8818a1e0accfad2c1096c177.svg",
+    "index.html": "/index.html",
+    "main.3d3b87d4.css.map": "/static/css/main.3d3b87d4.css.map",
+    "main.57a10b27.js.map": "/static/js/main.57a10b27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3b87d4.css",
+    "static/js/main.57a10b27.js"
+  ]
+}
