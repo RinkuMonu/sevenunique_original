@@ -27,17 +27,29 @@ import AppFooter from "../src/static/js/component/Footer/footer";
 import B2c from "./static/js/Pages/B2C/B2c";
 import MobileRechargePage from "./static/js/Pages/MobileRechargePage/MobileRechargePage";
 import FlightBookingPage from "./static/js/Pages/FlightBookingPage/FlightBookingPage";
+import BusBookingPage from "./static/js/Pages/BusBookingPage/BusBookingPage";
+import DthRechargePage from "./static/js/Pages/DthRechargePage/DthRechargePage";
+import TrainBookingPage from "./static/js/Pages/TrainBookingPage/TrainBookingPage";
+import ElectricityBillPage from "./static/js/Pages/ElectricityBillPage/ElectricityBillPage";
+import GasBillPage from "./static/js/Pages/GasBillPage/GasBillPage";
+
 
 function App() {
   return (
     <BrowserRouter>
       <Navbar />
       <Routes>
-        
+        <Route path="/" element={<Home/>}/>
         <Route path="/Home" element={<Home />} />
         <Route path="/B2c" element={<B2c />} />
         <Route path="/mobile-recharge" element={<MobileRechargePage />} />
         <Route path="/flight-booking" element={<FlightBookingPage />} />
+        <Route path="/bus-booking" element={<BusBookingPage/>} />
+        <Route path="/dth-recharge" element={<DthRechargePage/>} />
+        <Route path="/train-booking" element={<TrainBookingPage />} />
+        <Route path="/electricity-bill" element={<ElectricityBillPage/>} />
+        <Route path="/gas-bill" element={<GasBillPage/>} />
+
         <Route path="/About" element={<AboutUS />} />
         <Route path="/Services" element={<Services />} />
         <Route path="/Teams" element={<Teams />} />
