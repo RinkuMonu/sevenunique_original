@@ -30,7 +30,7 @@ function Contact() {
                         <div className="row align-items-center d-flex">
                             <div className="col-12 col-md-10 col-lg-8">
                                 <h3 className="fs-5 mb-2 text-secondary text-uppercase">Contact</h3>
-                                <h6 className="display-6 mb-4 mb-md-5 mb-xl-4">
+                                <h6 className="display-10 mb-4 mb-md-5 mb-xl-4">
                                     They facilitate inquiries, feedback, and issue resolution, fostering customer satisfaction and trust. Please get in touch.
                                 </h6>
                             </div>
@@ -107,7 +107,8 @@ function Contact() {
                                             <h4 className="mb-2">Office</h4>
                                             <hr className="w-50 mb-3 border-dark-subtle" />
                                             <address className="m-0 text-secondary">
-                                                213, 2nd floor Pushp Enclave Tonk Road, Pratap Nagar, Jaipur, Rajasthan - 302033
+                                            P.NO 97, Dakshinpuri Shri Kishanpura, Opposite to Somya Sky Apartments,
+                                            Jagatpura, Jaipur, Rajasthan - 302017
                                             </address>
                                         </div>
 

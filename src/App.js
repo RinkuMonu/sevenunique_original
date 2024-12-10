@@ -49,7 +49,6 @@ function App() {
         <Route path="/train-booking" element={<TrainBookingPage />} />
         <Route path="/electricity-bill" element={<ElectricityBillPage/>} />
         <Route path="/gas-bill" element={<GasBillPage/>} />
-
         <Route path="/About" element={<AboutUS />} />
         <Route path="/Services" element={<Services />} />
         <Route path="/Teams" element={<Teams />} />
@@ -65,7 +64,7 @@ function App() {
                   
                     <Route path="/Careers" element={<Careers />} />
                     <Route path="/Industries" element={<Industries />} />
-                    <Route path="/TP" element={<TP/>}/> */}{" "}
+                    <Route path="/TP" element={<TP/>}/> */}
       </Routes>{" "}
       <AppFooter />
     </BrowserRouter>
