@@ -33,7 +33,7 @@ function PP() {
       <div className="container my-5">
         <p>
           This Privacy Policy(“Policy”) governs the manner in which FinUnique
-          Tech Solutions Pvt.Ltd(the“ Company” or“ We”) collects, gains access
+           Small Pvt Ltd.(the“ Company” or“ We”) collects, gains access
           to, uses maintains, and discloses information including personal
           information of the users(each, a“ User”) of various
           services(“Services”) provided by the Company, either through the
@@ -211,12 +211,12 @@ function PP() {
             should we (or our assets) plan to merge with, or be acquired by any
             business entity, or re - organization, amalgamation, restructuring
             of our business then with such other business entity While the
-            information is shared, FinUnique Tech Solutions Pvt.Ltd.ensures that
+            information is shared, FinUnique  Small Pvt Ltd..ensures that
             the processing is carried out only on behalf of FinUnique Tech
             Solutions Pvt.Ltd.and this policy is applicable to the extent
             possible.{" "}
           </li>
-          <br /> <br /> Security FinUnique Tech Solutions Pvt.Ltd takes various
+          <br /> <br /> Security FinUnique  Small Pvt Ltd. takes various
           steps and measures to protect the security of the Personal Data of its
           users from misuse, loss, unauthorised access, modification or
           disclosure.We use latest secure server layers encryption and access
@@ -295,10 +295,10 @@ function PP() {
           lists and newsletters or discontinue any our services, please click on
           the unsubscribe button on the emailers.Personal Information Access and
           Rectification You can access and review your Personal Information
-          shared by you by logging in to FinUnique Tech Solutions Pvt.Ltd
+          shared by you by logging in to FinUnique  Small Pvt Ltd.
           Platform using your secure login credentials and may also place a
           request for updating your Personal Information by writing to
-          us.FinUnique Tech Solutions Pvt.Ltd may need to request specific
+          us.FinUnique  Small Pvt Ltd. may need to request specific
           information from you to confirm your identity and ensure
           authentication to correctly update your Personal Information.This is a
           security measure to ensure that Personal Information is not disclosed
@@ -307,7 +307,7 @@ function PP() {
           specific to the product / services that you are availing or our use of
           your Personal Information, we request you to read through the Terms
           and Conditions specific to the product / service which is easily
-          accessible through the FinUnique Tech Solutions Pvt.Ltd
+          accessible through the FinUnique  Small Pvt Ltd.
           Platform.Children Information We do not knowingly solicit or collect
           Personal Information from children under the age of 18 and use of our
           Platform is available only to persons who can form a legally binding

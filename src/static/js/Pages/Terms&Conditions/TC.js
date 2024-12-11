@@ -38,7 +38,7 @@ function TC() {
           <li>
             {" "}
             FinUnique is a digital financial facilitation service provided by
-            FinUnique TECH SOLUTIONS PVT LTD.Company registered under the
+            FinUnique  Small Pvt Ltd..Company registered under the
             Companies Act having registered office AT 213, 2 nd floor Pushp
             enclave Tonk Road{" "}
           </li>{" "}
